@@ -157,3 +157,8 @@ This dataset is intended solely for research and business analytics applications
 ## Contact
 
 - pachara.akk@student.mahidol.edu
+- pavorn.tho@gmail.com
+- peemmygg@gmail.com
+- konlakorn.won@mahidol.ac.th
+- natt@jaist.ac.jp
+
