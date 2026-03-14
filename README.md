@@ -127,6 +127,8 @@ Seven open-weight LLMs were evaluated under zero-shot and few-shot (K=3) setting
 
 On the **implicit entity subset**, even the best models achieve only 0.67&ndash;0.76 F1, roughly ten points below explicit-entity performance, confirming that implicit reasoning remains an unsolved challenge.
 
+Comprehensive details of our benchmarking data can be assessed through this [link](https://www.notion.so/Model-Experiment-For-Paper-24cfccbeaf5780e6b200ec7c51d391f6)
+
 ## Annotation Process
 
 FinER-ABSA was annotated using a **Human-in-the-Loop (HITL)** framework:
@@ -156,7 +158,7 @@ This dataset is intended solely for research and business analytics applications
 
 ## Contact
 
-- pachara.akk@student.mahidol.edu
+- pacharaguy.akk@gmail.com
 - pavorn.tho@gmail.com
 - peemmygg@gmail.com
 - konlakorn.won@mahidol.ac.th
